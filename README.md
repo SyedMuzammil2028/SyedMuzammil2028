@@ -10,6 +10,7 @@ Cybersecurity Enthusiast | Ethical Hacker | CTF Player | Programmer
 
 🔹 Active in Capture the Flag (CTF) challenges & security research
 
+
 🚀 What I Do?
 
 ✔️ Cybersecurity & Ethical Hacking – Reverse engineering, web exploitation, OSINT
@@ -20,6 +21,7 @@ Cybersecurity Enthusiast | Ethical Hacker | CTF Player | Programmer
 
 ✔️ Learning & Research – Exploring vulnerabilities & security best practices
 
+
 🔧 Tech Stack & Tools
 
 💻 Languages: C, C++, Python, Bash
@@ -29,6 +31,7 @@ Cybersecurity Enthusiast | Ethical Hacker | CTF Player | Programmer
 🖥️ OS & Platforms: Linux, Windows, Docker, Virtual Machines
 
 🔍 Other Tools: Git, Nmap, John the Ripper, SQLMap
+
 
 📌 My GitHub Repos
 
