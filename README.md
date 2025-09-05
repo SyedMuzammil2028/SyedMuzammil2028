@@ -44,7 +44,7 @@ Cybersecurity Enthusiast | Ethical Hacker | CTF Player | Programmer
 
 📫 Connect With Me
 
-🌐 LinkedIn: https://www.linkedin.com/in/syed-muzammil-75a6782bb
+🌐 LinkedIn: https://www.linkedin.com/in/syed-muzammil-sec
 
 📧 Email: syedmuzammil0317@gmail.com
 
